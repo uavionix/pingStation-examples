@@ -119,6 +119,6 @@ function statusCallback(response) {
 }
 
 // Fire off initial requests
-http.request(statusOptions, statusCallback).end();
+//http.request(statusOptions, statusCallback).end();
 http.request(trafficOptions, trafficCallback).end();
 
