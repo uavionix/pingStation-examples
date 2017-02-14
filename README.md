@@ -21,6 +21,7 @@ Install module dependencies:
 $ npm install
 ```
 Then run the appropriate script:
+```
 $ node ./pingStation-REST.js
  or
 $ node ./pingStation-UDP.js
