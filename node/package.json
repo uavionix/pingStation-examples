@@ -1,0 +1,14 @@
+{
+  "name": "pingstation-examples",
+  "version": "1.0.0",
+  "description": "pingStation Examples",
+  "homepage": "http://www.uavionix.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/uavionix/pingStation-examples.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ws": "2.0.3"
+  }
+}
