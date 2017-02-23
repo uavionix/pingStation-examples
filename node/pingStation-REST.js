@@ -12,6 +12,7 @@
 'use strict';
 
 var HOST = '10.40.21.240';
+//var HOST = '10.100.6.162';
 var PORT = 80;
 
 var TRAFFIC_FREQUENCY_S = 1;
